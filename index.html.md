@@ -1,7 +1,5 @@
 <!DOCTYPE html>
-
 <html>
- 
 <head>
   <title>My Personal Introduction</title>
   <style>
@@ -14,7 +12,7 @@
     p {
       color: #40fff5; 
     }
-   </style>
+  </style>
 </head>
 <body>
  <h1>My name is Colby</h1>
@@ -22,9 +20,4 @@
  <p>I like to play video games.</p>
  <p>I love the weekends.</p>
 </body>
-
-
-
-
-
 </html>
