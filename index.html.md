@@ -4,10 +4,10 @@
   <title>My Personal Introduction</title>
   <style>
    body {
-      background-color:#a35e25 ; 
+      background-color:#a35e25; 
     }
     h1 {
-      color:#838984 ; 
+      color:#838984; 
     }
     p {
       color: #40fff5; 
